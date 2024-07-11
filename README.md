@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-092" alt="akshay-092" /></a> </p>
 
-- 🌱 I’m currently learning **Django,JAVA,DevOps**
+- 🌱 I’m currently learning **Django, JAVA, DevOps**
 
-- 👨‍💻 All of my projects are available at [http://akshay-portfolio.42web.io/](http://akshay-portfolio.42web.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](http://akshay-portfolio.42web.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@akshay9](https://medium.com/@akshay9)
+- 📝 I regularly write articles on [Medium](https://medium.com/@akshay9)
 
 - 💬 Ask me about **React, Node, SQL, JavaScript**
 
 - 📫 How to reach me **akshaymakwana9577@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
