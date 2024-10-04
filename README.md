@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning AI, LLM, and Java <br><br>🖥️ Projects available on GitHub <br><br>📝 Regularly write articles on Medium <br><br>💬 Let's discuss ideas and create something together <br><br>📫 Contact me at akshaymakwana9577@gmail.com
+🌱 Currently learning AI, LLM, and Python <br><br>🖥️ Projects available on GitHub <br><br>📝 Regularly write articles on Medium <br><br>💬 Let's discuss ideas and create something together <br><br>📫 Contact me at akshaymakwana9577@gmail.com
 
 
 ## 🌐 Socials:
