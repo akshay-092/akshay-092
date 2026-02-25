@@ -29,7 +29,7 @@ I enjoy experimenting, building side projects, and understanding how AI can solv
 # 💼 Professional Experience
 
 ### 🏢 Developer III – Software Engineer  
-**UST (Client: Texas Instruments)** | Feb 2025 – Present  
+**UST** | Feb 2025 – Present  
 
 - Working on “Smriti” – a memory review system using Next.js (TypeScript)  
 - Developing full-stack features (frontend + backend)  
