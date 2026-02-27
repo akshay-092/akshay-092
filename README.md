@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Akshay Makwana
 
 💻 Full-Stack Developer with **3+ years of experience** building scalable SaaS and enterprise applications.  
-🚀 Currently working as **Developer III – Software Engineer**.  
+🚀 Currently looking for Software Engineer role**.  
 🧠 Strong in system design, backend architecture, and cloud deployments.  
 🤖 Actively learning and exploring **AI, LLMs, and intelligent systems**.  
 🤝 Open to collaboration on innovative projects and AI-based tools.
